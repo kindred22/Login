@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ndceg.com	TRUE	/odeysysportal	FALSE	1999999999	JSESSIONID	rcJZrTibRoW6bdpKZw6nRA3uKKmdxjqCtdzBfGBo.ndc-prd-ne-portal-12-z2
+ndceg.com	TRUE	/	FALSE	1999999999	portal-appCORS	92d72db5bd4fa46db7a86b8452020c1b
+ndceg.com	TRUE	/	FALSE	1999999999	SameSite	None
+ndceg.com	TRUE	/	FALSE	1999999999	portal-app	92d72db5bd4fa46db7a86b8452020c1b
+
